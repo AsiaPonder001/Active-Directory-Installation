@@ -17,7 +17,7 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 - Windows 10 (21H2)
 
 <h2> Set the Domain Controller's private ip to static</h2>
-<p> On the Azure Portal click Domain controller > Click Networking > Click NIC > Click the private ip address > Toggle to static > Click Save<p/>
+<a> On the Azure Portal click Domain controller > Click Networking > Click NIC > Click the private ip address > Toggle to static > Click Save<a/>
 
 <h2> Set Client-1 DNS settings<h2/>
 <p> Also in the Azure Portal go to the Client's VM Click Networking > Click on NIC > Click Ip configurations > Toggle to CUSTOM and Type in the domain's private ip address> Click Save<p/>
