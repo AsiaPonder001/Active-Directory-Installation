@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory Deployed in the Cloud (Microsoft Azure)</h1>
-Hello! In this tutorial I will install Active Directory within Azure Virtual Machines. Like the previous, this tutorial will assume you have two Virtual Machines One using Windows server 2022(Domain Controller) and another using Windows 10(the Client) <br />
+Hello! In this tutorial I will install Active Directory within Azure Virtual Machines. Like the previous, this tutorial will assume you have two Virtual Machines on Azure. One using Windows server 2022(Domain Controller) and another using Windows 10(the Client) <br />
 
 <h2>Environments and Technologies Used</h2>
 
