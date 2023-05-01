@@ -21,7 +21,7 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 <img src="https://i.imgur.com/9DlbGza.png">
 <b>Click ip Configurations</b>
 <img src="https://imgur.com/Xs71iST.png">
-<b>Click the private ip address > Toggle to static > Click Save</b>
+<b>Toggle to static > Click Save</b>
 <img src="https://i.imgur.com/Lq6jVwr.png">
 
 <h2> Set the Client DNS settings</h2>
