@@ -38,6 +38,8 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 <img src="https://imgur.com/sgSfpHN.png">
 
 <h2> Log into Domain Controller </h2>
+<a>- Username: Labuser</a>
+<a>- Password: Password1</a>
 <P>Using Remote Desktop Connection log into your Domain Controller<P/>
 <b>On the Server Manager click Add Roles and Features > Click Next >> Confirm private ip address of the Domain Controller </b>
 <img src="https://imgur.com/cPd0uAR.png">
@@ -68,6 +70,6 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 
 <h2> The DC will lose connection. Log back into the DC with new credentials. Example: </h2>
 
-- Username: mydomain.com\labuser</a>
+- Username: mydomain.com\Labuser</a>
 
 - Password: Password1</a>
