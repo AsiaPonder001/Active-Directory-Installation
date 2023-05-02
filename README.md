@@ -71,4 +71,5 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 - Example:
 
 <a>Username: mydomain.com\labuser</a>
+
 <a>Password: Password1</a>
