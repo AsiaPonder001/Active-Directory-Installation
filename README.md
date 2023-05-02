@@ -56,7 +56,7 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 
 <img src="https://i.imgur.com/Qfha5Cd.png">
 
-<p> Click Add a New Forest. Type: Mydomain.com
+<b> Click Add a New Forest</b>
 <img src="https://i.imgur.com/WZWtV9s.png">
 
 <b>Choose a password</b>
@@ -66,4 +66,7 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 <b>Click Install</b>
 <img src="https://i.imgur.com/QkN1oD2.png">
 
-Log off then back on to the DC with new credentials <p/>
+<h2> The DC will lose connection. Log back into the DC with new credentials </h2>
+- Example:
+Username: mydomain.com\labuser
+Password: Password1
