@@ -51,8 +51,8 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 <b>Click Install</b>
 <img src="https://i.imgur.com/s40t1Hw.png">
 
-<h2> To continue Installation Click Promote as a DC</h2>
-<a>Click Promote this Server to a Domain Controller</a>
+<h4> To continue Installation Click Promote as a DC</h4>
+<b>Click Promote this Server to a Domain Controller</b>
 
 <img src="https://i.imgur.com/Qfha5Cd.png">
 
