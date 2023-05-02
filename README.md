@@ -39,8 +39,17 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 
 <h2> Log into Domain Controller </h2>
 <P>Using Remote Desktop Connection log into your Domain Controller<P/>
-<b>On the Server Manager click Add Roles and Features > Click Next >> Confirm private ip address of the Domain Controller</b>
+<b>On the Server Manager click Add Roles and Features > Click Next >> Confirm private ip address of the Domain Controller </b>
 <img src="https://imgur.com/cPd0uAR.png">
-Check Active Directory Domain Services > Click Add Features > Click Next>> Click Install <p/>
+
+<b>Check Active Directory Domain Services</b>
+<img src="https://i.imgur.com/J82rwBq.png">
+
+<b>Click Add Features > Click Next>>
+<img src="https://i.imgur.com/XxfA8EI.png>
+
+<b>Click Install</b>
+<img src="https://i.imgur.com/XxfA8EI.png">
+
 <p> To continue Installation Click Promote as a DC<p/>
 <p> Click Set Up a New Forest. Type: Mydomain.com and choose a password. Log off then back on to the DC with new credentials <p/>
