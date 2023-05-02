@@ -45,7 +45,7 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 <b>Check Active Directory Domain Services</b>
 <img src="https://i.imgur.com/J82rwBq.png">
 
-<b>Click Add Features > Click Next>>
+<b>Click Add Features > Click Next>> </b>
 <img src="https://i.imgur.com/XxfA8EI.png>
 
 <b>Click Install</b>
