@@ -66,10 +66,8 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 <b>Click Install</b>
 <img src="https://i.imgur.com/QkN1oD2.png">
 
-<h2> The DC will lose connection. Log back into the DC with new credentials </h2>
+<h2> The DC will lose connection. Log back into the DC with new credentials. Example: </h2>
 
-- Example:
+- Username: mydomain.com\labuser</a>
 
-<a>Username: mydomain.com\labuser</a>
-
-<a>Password: Password1</a>
+- Password: Password1</a>
