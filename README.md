@@ -49,7 +49,7 @@ Hello! In this tutorial I will install Active Directory within Azure Virtual Mac
 <img src="https://i.imgur.com/XxfA8EI.png">
 
 <b>Click Install</b>
-<img src="https://i.imgur.com/XxfA8EI.png">
+<img src="https://i.imgur.com/s40t1Hw.png">
 
 <p> To continue Installation Click Promote as a DC<p/>
 <p> Click Set Up a New Forest. Type: Mydomain.com and choose a password. Log off then back on to the DC with new credentials <p/>
